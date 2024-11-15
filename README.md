@@ -1,2 +1,3 @@
-# SDE-Major-Project
-AI-Optimized Data Replication from NoSQL to SQL Using Predictive Caching and Load Balancing
+# AI-Optimized Data Replication from NoSQL to SQL Using Predictive Caching and Load Balancing
+
+This project aims to enhance the efficiency of replicating data between NoSQL and SQL databases by incorporating AI-based load balancing. The project also employs load balancing to manage replication frequency and prioritize critical data, ensuring both storage and computational resources are used effectively.Key benefits include reduced storage costs, faster query response times for SQL databases, and the ability to handle large datasets more efficiently by selectively replicating data based on anticipated demand. The project also measures and compares performance gains against traditional full replication methods.
