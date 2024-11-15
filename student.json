@@ -1,0 +1,7 @@
+[
+    {"name": "Alice Johnson", "class": "10", "subjects": "Mathematics", "age": 15, "address": {"city": "New York", "zipcode": "10001"}},
+    {"name": "Bob Smith", "class": "12", "subjects": "Physics", "age": 17, "address": {"city": "Los Angeles", "zipcode": "90001"}},
+    {"name": "Charlie Brown", "class": "11", "subjects": "History", "age": 16, "address": {"city": "Chicago", "zipcode": "60007"}},
+    {"name": "David Williams", "class": "9", "subjects": "Mathematics", "age": 14, "address": {"city": "San Francisco", "zipcode": "94101"}},
+    {"name": "Eva Davis", "class": "10", "subjects": "Mathematics", "age": 15, "address": {"city": "Miami", "zipcode": "33101"}}
+]

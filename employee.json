@@ -1,0 +1,47 @@
+[
+    {
+        "employee": {
+            "name": "Alice Green",
+            "age": 29,
+            "department": "Engineering",
+            "position": "Software Engineer",
+            "salary": 85000,
+            "address": {
+                "street": "123 Elm St.",
+                "city": "Seattle",
+                "state": "WA",
+                "zip": "98101"
+            }
+        }
+    },
+    {
+        "employee": {
+            "name": "Bob White",
+            "age": 35,
+            "department": "Marketing",
+            "position": "Marketing Manager",
+            "salary": 95000,
+            "address": {
+                "street": "456 Oak St.",
+                "city": "Los Angeles",
+                "state": "CA",
+                "zip": "90001"
+            }
+        }
+    },
+    {
+        "employee": {
+            "name": "Charlie Black",
+            "age": 42,
+            "department": "Sales",
+            "position": "Sales Director",
+            "salary": 105000,
+            "address": {
+                "street": "789 Pine Ave.",
+                "city": "Chicago",
+                "state": "IL",
+                "zip": "60601"
+            }
+        }
+    }
+]
